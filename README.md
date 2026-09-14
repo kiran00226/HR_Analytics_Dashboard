@@ -62,7 +62,7 @@ The cleaning process included:
 - Handling invalid values and outliers
 - Checking foreign key relationships
 
-<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/tree/5a6faca96fd68e67f17219d8f6100f30051bcaf5/output"> Click Here</a>
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/4db4534869be37f31917db5a008409696932a26d/HR_Analytics.ipynb"> Click Here</a>
 
 ### 3️⃣ Cleaned Data
 
@@ -70,7 +70,7 @@ After the cleaning process, the validated datasets were saved as cleaned CSV fil
 
 These cleaned datasets were used for further analysis and Power BI dashboard development.
 
-**Click Here**
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/4db4534869be37f31917db5a008409696932a26d/HR_Analytics.ipynb"> Click Here</a>
 
 ### 4️⃣ Power BI Data Modeling
 
