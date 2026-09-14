@@ -70,7 +70,7 @@ After the cleaning process, the validated datasets were saved as cleaned CSV fil
 
 These cleaned datasets were used for further analysis and Power BI dashboard development.
 
-<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/4db4534869be37f31917db5a008409696932a26d/HR_Analytics.ipynb"> Click Here</a>
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/tree/51547963a14cc86765551710f64d6144fa7f1d49/cleaned%20file"> Click Here</a>
 
 ### 4️⃣ Power BI Data Modeling
 
@@ -81,7 +81,6 @@ The cleaned CSV files were imported into Power BI and relationships were created
 
 The data model was structured to support integrated HR analysis.
 
-**Click Here**
 
 ### 5️⃣ Dashboard Development
 
@@ -102,7 +101,7 @@ The dashboards cover:
 - Payroll Analytics
 - Executive Dashboard
 
-**Click Here**
+<a href=""> Click Here</a>
 
 ### 6️⃣ Insights & Analysis
 
