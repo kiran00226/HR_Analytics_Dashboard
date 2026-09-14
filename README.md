@@ -180,7 +180,7 @@ The absenteeism rate is calculated based on:
 
 Absent Days / Total Working Days
 
-<a href="">Click Here</a>
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/80b1561a4073e22448de0663b953035229fdd7ad/Dashboard%20Screenshots/Attendance%20Dashboard.png">Click Here</a>
 
 ---
 
@@ -196,6 +196,8 @@ Key analysis includes:
 - Performance rating and productivity score
 - Productivity trend by review period
 - Promotion recommendation analysis
+
+<a href="">Click Here</a>
 
 ---
 
