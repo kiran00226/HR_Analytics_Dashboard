@@ -160,7 +160,7 @@ Key analysis includes:
 - Hiring success by department
 - Hiring success by recruitment source
 
-<a href="">Click Here</a>
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/8dd0b1d7124f637a21260a686410238efab2b738/Dashboard%20Screenshots/Recriutment%20Dashboard.png">Click Here</a>
 
 ---
 
@@ -179,6 +179,8 @@ Key analysis includes:
 The absenteeism rate is calculated based on:
 
 Absent Days / Total Working Days
+
+<a href="">Click Here</a>
 
 ---
 
