@@ -197,7 +197,7 @@ Key analysis includes:
 - Productivity trend by review period
 - Promotion recommendation analysis
 
-<a href="">Click Here</a>
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/3fed21320c32fab19b9db2ce39f4df9c7770dd61/Dashboard%20Screenshots/Performance%20Dashboard.png">Click Here</a>
 
 ---
 
@@ -216,6 +216,8 @@ Key analysis includes:
 Employee cost is analyzed using:
 
 Basic Salary + HRA + Bonus − Deductions
+
+<a href="">Click Here</a>
 
 ---
 
