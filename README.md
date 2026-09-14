@@ -140,7 +140,24 @@ The experience analysis uses the following bands:
 - 6–10 years
 - 10+ years
 
-<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/5d504e6a9e0ba77452e47679900917c533c0237f/Dashboard%20Screenshots/Employees%20Dashboard.png"><button>Click Here</button</a>
+---
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.btn:hover {
+    background-color: #1d4ed8;
+}
+
+
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/5d504e6a9e0ba77452e47679900917c533c0237f/Dashboard%20Screenshots/Employees%20Dashboard.png" class="btn">Click Here</a>
 
 ---
 
