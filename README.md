@@ -285,16 +285,36 @@ The dashboard helps analyze workforce demographics, recruitment performance, att
 
 ---
 
-📌 Conclusion
+## 📁 Project Structure
 
-This project demonstrates an end-to-end HR Analytics and Business Intelligence workflow, starting from raw and imperfect datasets and transforming them into an interactive Power BI dashboard.
-
-The dashboard helps analyze workforce demographics, recruitment performance, attendance, employee performance, payroll, and key executive-level HR KPIs.
+```text
+HR_Analytics_Dashboard/
+│
+├── 📂 cleaned_data/
+│   ├── departments_cleaned.csv
+│   ├── employees_cleaned.csv
+│   ├── job_applications_cleaned.csv
+│   ├── attendance_cleaned.csv
+│   ├── leaves_cleaned.csv
+│   ├── performance_reviews_cleaned.csv
+│   └── payroll_cleaned.csv
+│
+├── 📂 notebooks/
+│   └── HR_Analytics_Data_Cleaning.ipynb
+│
+├── 📂 dashboard/
+│   └── HR_Analytics_Dashboard.pbix
+│
+├── 📄 README.md
+├── 📄 .gitignore
+└── 📄 HR_Analytics_Project_Brief.docx
 
 ---
 
-👩‍💻 Author
+<h2>👩‍💻 Author</h2>
 
-Kiran
+<h3>Kiran</h3>
+
 Data Analytics | Python | SQL | Power BI
+
 📌 Project: HR Analytics Dashboard
