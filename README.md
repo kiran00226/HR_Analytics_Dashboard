@@ -1,21 +1,17 @@
 # HR_Analytics_Dashboard
 Interactive HR Analytics Dashboard built using Python, DAX &amp; Power BI for data-driven workforce insights.
 
-<h2>HR Analytics Dashboard </h2> 📊
+<h2>HR Analytics Dashboard 📊</h2>
 
-📌 <h3> Project Overview </h3>
+<h3>📌 Project Overview </h3>
 
 The HR Analytics Dashboard is a Business Intelligence project designed to analyze and monitor key HR operations using Python, Pandas, NumPy, and Microsoft Power BI.
 
 The project works with a synthetic but realistic Indian HR dataset containing employee, recruitment, attendance, leave, performance, and payroll information. The dataset includes intentional data-quality issues to simulate a real-world data analytics workflow.
 
-The project follows a complete analytics process:
-
-Raw Data → Data Cleaning → Data Validation → Data Modeling → Power BI Dashboard → HR Insights
-
 ---
 
-🎯 Project Objectives
+<h3>🎯 Project Objectives</h3>
 
 - Clean and prepare raw HR data using Python
 - Identify and handle missing values and duplicate records
@@ -29,54 +25,97 @@ Raw Data → Data Cleaning → Data Validation → Data Modeling → Power BI Da
 
 ---
 
-🗂️ Dataset
+## 🔄 Project Workflow
 
-The project contains 7 interconnected CSV files:
+Raw Data → Data Cleaning → Cleaned Data → Power BI Data Modeling → Dashboard Development → Insights
 
-Dataset| Description
-"departments.csv"| Department master/dimension table
-"employees.csv"| Employee information
-"job_applications.csv"| Recruitment and job application records
-"attendance.csv"| Employee attendance records
-"leaves.csv"| Employee leave records
-"performance_reviews.csv"| Employee performance reviews
-"payroll.csv"| Monthly employee payroll records
+### 1️⃣ Raw Data
 
-The project brief defines "departments" and "employees" as dimension tables, while "job_applications", "attendance", "leaves", "performance_reviews", and "payroll" act as fact/transaction tables.
+The original HR datasets contain employee, recruitment, attendance, leave, performance, payroll, and department-related information.
 
----
+The raw datasets include:
 
-🧹 Data Cleaning
+- Departments
+- Employees
+- Job Applications
+- Attendance
+- Leaves
+- Performance Reviews
+- Payroll
 
-Python was used to clean and prepare the datasets before importing them into Power BI.
+The raw files are kept unchanged for reference and comparison.
 
-Cleaning activities included:
+<a href=""> Click Here</a>
 
-- Dataset shape and data-type inspection
-- Missing-value analysis
-- Duplicate-record detection
-- Email validation
-- Phone-number validation
-- Text standardization
-- Numerical outlier detection
-- Foreign-key validation
-- Data consistency checks
-- Creation of cleaned CSV files
 
-The project brief specifically identifies missing values, duplicates, invalid contact information, inconsistent casing, numerical outliers, and broken foreign keys as intentional data-quality issues.
+### 2️⃣ Data Cleaning Using Python
 
----
+Python and Pandas were used to clean and prepare the raw HR datasets for analysis.
 
-🛠️ Tools & Technologies
+The cleaning process included:
 
-- Python
-- Pandas
-- NumPy
-- Jupyter Notebook
-- Microsoft Power BI
-- DAX
-- CSV
-- GitHub
+- Handling missing values
+- Removing duplicate records
+- Fixing inconsistent data formats
+- Validating email and phone numbers
+- Correcting data types
+- Handling invalid values and outliers
+- Checking foreign key relationships
+
+**Click Here**
+
+### 3️⃣ Cleaned Data
+
+After the cleaning process, the validated datasets were saved as cleaned CSV files.
+
+These cleaned datasets were used for further analysis and Power BI dashboard development.
+
+**Click Here**
+
+### 4️⃣ Power BI Data Modeling
+
+The cleaned CSV files were imported into Power BI and relationships were created between the tables using common keys such as:
+
+- `department_id`
+- `employee_id`
+
+The data model was structured to support integrated HR analysis.
+
+**Click Here**
+
+### 5️⃣ Dashboard Development
+
+Interactive HR dashboards were created in Power BI using:
+
+- DAX Measures
+- KPI Cards
+- Charts
+- Tables
+- Slicers
+
+The dashboards cover:
+
+- Employee Analytics
+- Recruitment Analytics
+- Attendance Analytics
+- Performance Analytics
+- Payroll Analytics
+- Executive Dashboard
+
+**Click Here**
+
+### 6️⃣ Insights & Analysis
+
+The final dashboard helps analyze workforce trends and provides insights into:
+
+- Employee demographics
+- Recruitment performance
+- Attendance and absenteeism
+- Employee performance
+- Payroll costs
+- Department-wise HR metrics
+
+These insights can support data-driven HR decision-making.
 
 ---
 
@@ -196,47 +235,16 @@ and hiring rate as:
 Hired / Total Applications
 
 ---
+🛠️ Tools & Technologies
 
-🔗 Data Model
-
-The Power BI data model follows a star-schema-friendly structure.
-
-Main relationships
-
-Departments
-     │
-     ├────────── Employees
-     │              │
-     │              ├── Attendance
-     │              ├── Leaves
-     │              ├── Performance Reviews
-     │              └── Payroll
-     │
-     └────────── Job Applications
-
-The project brief specifies one-to-many relationships from departments to employees/job applications and from employees to attendance, leaves, performance reviews, and payroll.
-
----
-
-📁 Project Structure
-
-HR-Analytics-Project/
-│
-├── output/
-│   └── Raw CSV files
-│
-├── notebooks/
-│   └── Python data-cleaning notebooks
-│
-├── cleaned_data/
-│   └── Cleaned CSV files
-│
-├── dashboard/
-│   └── HR Analytics Power BI Dashboard
-│
-└── README.md
-
-This structure follows the organization suggested in the project brief.
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+- Microsoft Power BI
+- DAX
+- CSV
+- GitHub
 
 ---
 
@@ -256,24 +264,12 @@ Through this project, I worked on:
 - Converting raw data into actionable insights
 
 ---
+📌 Conclusion
 
-🚀 Project Workflow
+This project demonstrates an end-to-end HR Analytics and Business Intelligence workflow, starting from raw and imperfect datasets and transforming them into an interactive Power BI dashboard.
 
-Raw HR CSV Files
-       ↓
-Python Data Cleaning
-       ↓
-Data Validation
-       ↓
-Cleaned CSV Files
-       ↓
-Power BI Data Model
-       ↓
-DAX Measures & KPIs
-       ↓
-Interactive HR Dashboard
-       ↓
-Business Insights
+The dashboard helps analyze workforce demographics, recruitment performance, attendance, employee performance, payroll, and key executive-level HR KPIs.
+
 
 ---
 
@@ -282,3 +278,11 @@ Business Insights
 This project demonstrates an end-to-end HR Analytics and Business Intelligence workflow, starting from raw and imperfect datasets and transforming them into an interactive Power BI dashboard.
 
 The dashboard helps analyze workforce demographics, recruitment performance, attendance, employee performance, payroll, and key executive-level HR KPIs.
+
+---
+
+👩‍💻 Author
+
+Kiran
+Data Analytics | Python | SQL | Power BI
+📌 Project: HR Analytics Dashboard
