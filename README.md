@@ -101,7 +101,7 @@ The dashboards cover:
 - Payroll Analytics
 - Executive Dashboard
 
-<a href=""> Click Here</a>
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/tree/a2a6c7ab7169268d8204089c812461bce80b39bf/Dashboard"> Click Here</a>
 
 ### 6️⃣ Insights & Analysis
 
@@ -141,6 +141,7 @@ The experience analysis uses the following bands:
 - 10+ years
 
 ---
+<a href=""> Click Here</a>
 
 2. 🎯 Recruitment Analytics
 
