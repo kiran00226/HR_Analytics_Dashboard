@@ -1,8 +1,6 @@
 # HR_Analytics_Dashboard
 Interactive HR Analytics Dashboard built using Python, DAX &amp; Power BI for data-driven workforce insights.
 
-<h2>HR Analytics Dashboard 📊</h2>
-
 <h3>📌 Project Overview </h3>
 
 The HR Analytics Dashboard is a Business Intelligence project designed to analyze and monitor key HR operations using Python, Pandas, NumPy, and Microsoft Power BI.
