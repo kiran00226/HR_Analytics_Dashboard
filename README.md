@@ -27,7 +27,7 @@ The project works with a synthetic but realistic Indian HR dataset containing em
 
 ## 🔄 Project Workflow
 
-Raw Data → Data Cleaning → Cleaned Data → Power BI Data Modeling → Dashboard Development → Insights
+<h3>Raw Data → Data Cleaning → Cleaned Data → Power BI Data Modeling → Dashboard Development → Insights</h3>
 
 ### 1️⃣ Raw Data
 
@@ -284,6 +284,15 @@ The dashboard helps analyze workforce demographics, recruitment performance, att
 
 
 ---
+<h2>👩‍💻 Author</h2>
+
+<h3>Kiran</h3>
+
+Data Analytics | Python | SQL | Power BI
+
+📌 Project: HR Analytics Dashboard
+
+---
 
 ## 📁 Project Structure
 
@@ -310,11 +319,3 @@ HR_Analytics_Dashboard/
 └── 📄 HR_Analytics_Project_Brief.docx
 
 ---
-
-<h2>👩‍💻 Author</h2>
-
-<h3>Kiran</h3>
-
-Data Analytics | Python | SQL | Power BI
-
-📌 Project: HR Analytics Dashboard
