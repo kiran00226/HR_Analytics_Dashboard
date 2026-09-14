@@ -45,7 +45,7 @@ The raw datasets include:
 
 The raw files are kept unchanged for reference and comparison.
 
-<a href=""> Click Here</a>
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/tree/5a6faca96fd68e67f17219d8f6100f30051bcaf5/output"> Click Here</a>
 
 
 ### 2️⃣ Data Cleaning Using Python
@@ -62,7 +62,7 @@ The cleaning process included:
 - Handling invalid values and outliers
 - Checking foreign key relationships
 
-**Click Here**
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/tree/5a6faca96fd68e67f17219d8f6100f30051bcaf5/output"> Click Here</a>
 
 ### 3️⃣ Cleaned Data
 
