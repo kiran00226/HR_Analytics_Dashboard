@@ -244,7 +244,7 @@ and hiring rate as:
 
 Hired / Total Applications
 
-<a href="">Click Here</a>
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/2cc0db90cde795c1d0c037d5cf5ff4de11181444/Dashboard%20Screenshots/Executive%20Dashboard.png">Click Here</a>
 
 ---
 🛠️ Tools & Technologies
