@@ -217,7 +217,7 @@ Employee cost is analyzed using:
 
 Basic Salary + HRA + Bonus − Deductions
 
-<a href="">Click Here</a>
+<a href="https://github.com/kiran00226/HR_Analytics_Dashboard/blob/53d2323f84a711a3dc2b86e5a9ebafdb18da20b9/Dashboard%20Screenshots/Payroll%20Dashboard.png">Click Here</a>
 
 ---
 
@@ -243,6 +243,8 @@ The project brief defines attrition as:
 and hiring rate as:
 
 Hired / Total Applications
+
+<a href="">Click Here</a>
 
 ---
 🛠️ Tools & Technologies
