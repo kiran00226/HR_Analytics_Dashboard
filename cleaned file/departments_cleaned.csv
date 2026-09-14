@@ -1,0 +1,13 @@
+department_id,department_name,description,budget_inr
+DEP001,Engineering,Software & Product Engineering,5000000
+DEP002,Sales,Sales & Business Development,3500000
+DEP003,Marketing,Marketing & Brand,7500000
+DEP004,Human Resources,People Operations,15000000
+DEP005,Finance,Finance & Accounts,2000000
+DEP006,Customer Support,Customer Success,2000000
+DEP007,Operations,Operations & Logistics,10000000
+DEP008,IT Infrastructure,IT & Systems,2000000
+DEP009,Legal,Legal & Compliance,5000000
+DEP010,Procurement,Procurement & Vendor Management,10000000
+DEP011,Quality Assurance,QA & Testing,2000000
+DEP012,Administration,Admin & Facilities,10000000
