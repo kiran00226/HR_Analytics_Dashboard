@@ -255,6 +255,7 @@ Hired / Total Applications
 - DAX
 - CSV
 - GitHub
+- MySql
 
 ---
 
